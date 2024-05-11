@@ -1,4 +1,4 @@
-# 修改samplesheet解析部分增加对match_dir的支持
+# 修改samplesheet解析代码增加对match_dir的支持
 
 https://nextflow-io.github.io/nf-validation/nextflow_schema/nextflow_schema_examples/
 
