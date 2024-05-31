@@ -88,3 +88,5 @@ PIPELINE_INITIALISATION.out.samplesheet.view()
 ```
 
 可以看到能够正确的解析matchdir了
+
+改了以后还不行，大概率是第一步的key写到最外层了...
